@@ -1,0 +1,17 @@
+is_hierarchy_type=flat 
+is_hierarchy_prefix=s33\
+ is_text_file_relative_path=.
+ is_text_file_name_regex=.*\.txt
+ is_text_type=plain
+ is_audio_file_relative_path=.
+ is_audio_file_name_regex=.*\.mpg
+ os_job_file_name=result
+ os_job_file_container=zip
+ os_job_file_hierarchy_type=flat
+ os_job_file_hierarchy_prefix=.
+ os_task_file_name=$PREFIX.json
+ os_task_file_format=json
+ os_task_file_smil_page_ref=$PREFIX.xhtml
+ os_task_file_smil_audio_ref=$PREFIX.mpg
+ job_language=ita
+ job_description=Example 1 (flat hierarchy, parsed text files)
