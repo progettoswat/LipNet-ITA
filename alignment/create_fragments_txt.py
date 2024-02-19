@@ -2,7 +2,7 @@ import os
 
 phrases = ['Salve quanto costa quell articolo',
            'E in offerta costa dieci euro',
-           'Perfetto vorrei comprarne due.',
+           'Perfetto vorrei comprarne due',
            'Certo ecco a lei vuole un sacchetto',
            'Si grazie e arrivederci',
            'Le auguro una buona giornata',
