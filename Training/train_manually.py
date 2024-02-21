@@ -138,7 +138,7 @@ if __name__ == '__main__':
     run_name = datetime.datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 
     start_epoch = 0
-    stop_epoch = 600
+    stop_epoch = 200
 
     # Samples properties
     img_c = 3  # Image channels
@@ -146,11 +146,11 @@ if __name__ == '__main__':
     img_h = 50  # Image height
     frames_n = 100  # Number of frames per video
 
-    absolute_max_string_len = 54  # Max sentence length
+    absolute_max_string_len = 30  # Max sentence length
 
     minibatch_size = 16  # Minibatch size
 
-    num_samples_stats = 95  # Number of samples for statistics evaluation per epoch
+    num_samples_stats = 20  # Number of samples for statistics evaluation per epoch
 
     train(run_name, start_epoch, stop_epoch, img_c, img_w, img_h, frames_n, absolute_max_string_len, minibatch_size,
           num_samples_stats)

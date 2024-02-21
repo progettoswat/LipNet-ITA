@@ -1,6 +1,6 @@
 import os
 
-phrases = ['Hello, i m John',
+phrases = ['Hello i m John',
            'You re welcome',
            'Thank you and goodbye',
            'Yeah sure i want it too creamy',
