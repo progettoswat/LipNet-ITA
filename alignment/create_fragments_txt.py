@@ -1,25 +1,11 @@
 import os
 
-phrases = ['Salve quanto costa quell articolo',
-           'E in offerta costa dieci euro',
-           'Perfetto vorrei comprarne due',
-           'Certo ecco a lei vuole un sacchetto',
-           'Si grazie e arrivederci',
-           'Le auguro una buona giornata',
-           'Buongiorno io sono Mario',
-           'Buonasera io sono Mario',
-           'Piacere Luigi come stai',
-           'Tutto bene tu',
-           'Tutto bene grazie',
-           'Prendiamo un caffe al bar',
-           'Certo volentieri, io lo prendero macchiato',
-           'A che ora arriva il pullman',
-           'Dovrebbe arrivare tra qualche minuto',
-           'Quanto costa il biglietto',
-           'Purtroppo non lo so pero potresti chiedere all autista',
-           'Va bene grazie lo stesso',
-           'Prego'
-           ]
+phrases = ['Hello, i m John',
+           'You re welcome',
+           'Thank you and goodbye',
+           'Yeah sure i want it too creamy',
+           'How much it cost the ticket'
+          ]
 
 
 def write_file(file, index):
