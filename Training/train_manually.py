@@ -47,14 +47,14 @@ def train(run_name, start_epoch, stop_epoch, img_c, img_w, img_h, frames_n, abso
     lipnet.summary()
 
     # load weights
-    #if start_epoch == 0:
-     #   start_file_w = os.path.join(OUTPUT_DIR, 'startWeight/unseen-weights178.h5')
-      #  lipnet.model.load_weights(start_file_w)
+    if start_epoch == 0:
+        start_file_w = os.path.join(OUTPUT_DIR, 'startWeight/V16_weights598.h5')
+        lipnet.model.load_weights(start_file_w)
 
     # load preexisting trained weights for the model weights113_peer_01.h5
-    if start_epoch > 0:
-        weight_file = os.path.join(OUTPUT_DIR, os.path.join(f"2023_11_06_17_35_37", f'weights%02d.h5' % (start_epoch - 1)))
-        lipnet.model.load_weights(weight_file)
+    #if start_epoch > 0:
+        #weight_file = os.path.join(OUTPUT_DIR, os.path.join(f"2023_11_06_17_35_37", f'weights%02d.h5' % (start_epoch - 1)))
+        #lipnet.model.load_weights(weight_file)
 
     adam = tf.keras.optimizers.Adam(learning_rate=0.0001, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
