@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.480",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "1.960",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Piacere"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.640",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "luigi"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "2.920",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "come"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.240",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "stai"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.960",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.680",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "1.560",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Qual"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "2.240",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "e"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.720",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "la"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "children": [],
+   "end": "3.160",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "tua"
+   ]
+  },
+  {
+   "begin": "3.160",
+   "children": [],
+   "end": "3.160",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "esperienza"
+   ]
+  },
+  {
+   "begin": "3.160",
+   "children": [],
+   "end": "3.280",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "nel"
+   ]
+  },
+  {
+   "begin": "3.280",
+   "children": [],
+   "end": "3.840",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "settore"
+   ]
+  },
+  {
+   "begin": "3.840",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

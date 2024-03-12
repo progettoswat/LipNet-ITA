@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.640",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "1.520",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Circa"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "1.520",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "venti"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "1.560",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "minuti"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "1.920",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "di"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "children": [],
+   "end": "2.440",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "attesa"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.160",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "0.520",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Dovrebbe"
+   ]
+  },
+  {
+   "begin": "0.520",
+   "children": [],
+   "end": "1.120",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "arrivare"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.760",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "tra"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.400",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "qualche"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "3.320",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "minuto"
+   ]
+  },
+  {
+   "begin": "3.320",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

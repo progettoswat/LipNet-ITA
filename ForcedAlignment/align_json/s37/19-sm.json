@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.760",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.760",
+   "children": [],
+   "end": "1.640",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Buongiorno"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "1.720",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "1.720",
+   "children": [],
+   "end": "1.920",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "che"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "children": [],
+   "end": "2.240",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "ora"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.680",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "inizia"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "2.800",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "lo"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.320",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "spettacolo"
+   ]
+  },
+  {
+   "begin": "3.320",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

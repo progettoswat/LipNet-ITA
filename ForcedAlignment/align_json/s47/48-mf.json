@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.160",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "0.360",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Dobbiamo"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.760",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "portare"
+   ]
+  },
+  {
+   "begin": "0.760",
+   "children": [],
+   "end": "1.080",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "dell"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.920",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "acqua"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "children": [],
+   "end": "2.240",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "la"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.920",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "prossima"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.160",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "volta"
+   ]
+  },
+  {
+   "begin": "3.160",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

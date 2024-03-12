@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.680",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "0.920",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Dove"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "1.240",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "posso"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.680",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "acquistare"
+   ]
+  },
+  {
+   "begin": "1.680",
+   "children": [],
+   "end": "1.760",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.160",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "biglietti"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

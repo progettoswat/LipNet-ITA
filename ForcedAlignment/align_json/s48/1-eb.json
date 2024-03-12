@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "1.560",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "E"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "1.840",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.600",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "offerta"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "3.000",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "costa"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.240",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "dieci"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.720",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "euro"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "3.960",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

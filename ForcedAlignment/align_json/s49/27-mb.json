@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Quanto"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "tempo"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "ci"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.720",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "vorra"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.040",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "per"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "2.400",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "preparare"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "2.400",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "la"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "3.080",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "pizza"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "3.960",
+   "id": "f000010",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.560",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "0.800",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Dove"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.160",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "stai"
+   ]
+  },
+  {
+   "begin": "1.160",
+   "children": [],
+   "end": "1.560",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "andando"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "1.640",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "di"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "2.200",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "bello"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

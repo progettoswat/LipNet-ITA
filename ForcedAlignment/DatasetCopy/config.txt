@@ -1,5 +1,5 @@
 is_hierarchy_type=flat 
-is_hierarchy_prefix=s33\
+is_hierarchy_prefix=s61\
  is_text_file_relative_path=.
  is_text_file_name_regex=.*\.txt
  is_text_type=plain

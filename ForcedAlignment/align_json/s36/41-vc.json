@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.080",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.400",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Si"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.760",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "volentieri"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "3.960",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

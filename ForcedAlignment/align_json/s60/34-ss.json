@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.400",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.400",
+   "children": [],
+   "end": "0.560",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Ammiro"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "0.760",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "la"
+   ]
+  },
+  {
+   "begin": "0.760",
+   "children": [],
+   "end": "1.600",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "vostra"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "1.880",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "cultura"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "3.080",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "aziendale"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

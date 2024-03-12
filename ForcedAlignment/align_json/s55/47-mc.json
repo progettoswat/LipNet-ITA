@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.640",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "1.000",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Si"
+   ]
+  },
+  {
+   "begin": "1.000",
+   "children": [],
+   "end": "1.720",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "sembrano"
+   ]
+  },
+  {
+   "begin": "1.720",
+   "children": [],
+   "end": "2.360",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "divertirsi"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "3.680",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "un"
+   ]
+  },
+  {
+   "begin": "3.680",
+   "children": [],
+   "end": "3.760",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "sacco"
+   ]
+  },
+  {
+   "begin": "3.760",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

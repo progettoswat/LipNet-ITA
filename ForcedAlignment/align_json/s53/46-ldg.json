@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.440",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.440",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Guarda"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.760",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "quei"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.160",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "bambini"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.640",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "giocare"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "2.720",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "con"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "children": [],
+   "end": "2.760",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "il"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "3.240",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "pallone"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

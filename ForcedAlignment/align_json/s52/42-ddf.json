@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.080",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.080",
+   "children": [],
+   "end": "0.680",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Che"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "1.120",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "bello"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.440",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "fare"
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "1.480",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "una"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "2.240",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "passeggiata"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.360",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "qui"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "3.960",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

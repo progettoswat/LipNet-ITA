@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.960",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Le"
+   ]
+  },
+  {
+   "begin": "0.960",
+   "children": [],
+   "end": "1.720",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "auguro"
+   ]
+  },
+  {
+   "begin": "1.720",
+   "children": [],
+   "end": "1.960",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "una"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.000",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "buona"
+   ]
+  },
+  {
+   "begin": "2.000",
+   "children": [],
+   "end": "2.680",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "giornata"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

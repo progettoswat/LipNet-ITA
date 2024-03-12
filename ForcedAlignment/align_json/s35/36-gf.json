@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.440",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Ho"
+   ]
+  },
+  {
+   "begin": "0.440",
+   "children": [],
+   "end": "0.800",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "fatto"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "0.840",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "una"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.440",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "gita"
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "1.800",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "2.560",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "montagna"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "3.960",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

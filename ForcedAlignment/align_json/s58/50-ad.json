@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.800",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Qual"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.200",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "e"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "1.480",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "il"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "1.840",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "numero"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "1.960",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "dell"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.240",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "autobus"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.560",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "per"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "2.760",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "l"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "3.000",
+   "id": "f000010",
+   "language": "ita",
+   "lines": [
+    "aereoporto"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.960",
+   "id": "f000011",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

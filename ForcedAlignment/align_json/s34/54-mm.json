@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "0.640",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Se"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "1.080",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "avessi"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.240",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "piu"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.680",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "soldi"
+   ]
+  },
+  {
+   "begin": "1.680",
+   "children": [],
+   "end": "2.360",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "partirei"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "2.880",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "anche"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.440",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "io"
+   ]
+  },
+  {
+   "begin": "3.440",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

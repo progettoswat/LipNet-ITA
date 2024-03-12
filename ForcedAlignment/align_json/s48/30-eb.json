@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.280",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Ecco"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "1.800",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "la"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "2.600",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "sua"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "2.960",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "pizza"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "3.040",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "margherita"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.240",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "buon"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.520",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "appetito"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

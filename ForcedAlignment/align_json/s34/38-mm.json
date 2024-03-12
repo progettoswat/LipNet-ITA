@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.800",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.640",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Penso"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "2.120",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "di"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "3.040",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "andare"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.240",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "al"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.600",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "concerto"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

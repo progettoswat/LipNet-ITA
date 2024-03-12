@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.880",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.200",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Va"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "1.280",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "bene"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "3.240",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "aspettero"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.960",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

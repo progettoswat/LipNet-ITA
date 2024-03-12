@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.280",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.280",
+   "children": [],
+   "end": "0.520",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Puoi"
+   ]
+  },
+  {
+   "begin": "0.520",
+   "children": [],
+   "end": "1.840",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "acquistare"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.280",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "2.280",
+   "children": [],
+   "end": "2.680",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "biglietti"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "3.240",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "online"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.480",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "o"
+   ]
+  },
+  {
+   "begin": "3.480",
+   "children": [],
+   "end": "3.600",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "al"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "3.920",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "botteghino"
+   ]
+  },
+  {
+   "begin": "3.920",
+   "children": [],
+   "end": "3.960",
+   "id": "f000010",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}

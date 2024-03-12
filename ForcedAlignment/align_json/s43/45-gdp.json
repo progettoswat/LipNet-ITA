@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.840",
+   "id": "f000001",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.400",
+   "id": "f000002",
+   "language": "ita",
+   "lines": [
+    "Si"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.840",
+   "id": "f000003",
+   "language": "ita",
+   "lines": [
+    "sembra"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "1.880",
+   "id": "f000004",
+   "language": "ita",
+   "lines": [
+    "un"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.080",
+   "id": "f000005",
+   "language": "ita",
+   "lines": [
+    "bel"
+   ]
+  },
+  {
+   "begin": "2.080",
+   "children": [],
+   "end": "2.440",
+   "id": "f000006",
+   "language": "ita",
+   "lines": [
+    "posto"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "2.640",
+   "id": "f000007",
+   "language": "ita",
+   "lines": [
+    "per"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "3.680",
+   "id": "f000008",
+   "language": "ita",
+   "lines": [
+    "riposare"
+   ]
+  },
+  {
+   "begin": "3.680",
+   "children": [],
+   "end": "3.960",
+   "id": "f000009",
+   "language": "ita",
+   "lines": [
+    "sil"
+   ]
+  }
+ ]
+}
